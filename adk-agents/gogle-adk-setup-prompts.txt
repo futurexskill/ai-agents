@@ -1,0 +1,33 @@
+
+========================  Prompt 1 – Create the Project
+
+I want to build AI Agents using Google's Agent Development Kit (ADK).
+
+Help me set up a new Visual Studio Code project from scratch.
+
+Guide me one step at a time.
+
+Do not give all the steps at once.
+
+First, tell me how to create the project folder and verify that Python is installed.
+
+======================== Prompt 2 – Create Virtual Environment
+
+Great.
+
+Now help me create and activate a Python virtual environment for this project.
+
+Explain each command before showing it.
+
+Wait for me before moving to the next step.
+
+========================  Prompt 3 – Install Google ADK
+
+Prompt 5 – Verify Installation
+
+The virtual environment is ready.
+
+Now help me install Google ADK and all required Python packages for building AI agents.
+
+Explain what each package is used for.
+
