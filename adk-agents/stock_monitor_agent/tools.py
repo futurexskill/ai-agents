@@ -33,7 +33,7 @@ def send_email(subject: str, body: str):
 
     response = resend.Emails.send({
         "from": "onboarding@resend.dev",
-        "to": "futurexskill@gmail.com",
+        "to": "youremail@gmail.com",
         "subject": subject,
         "html": f"""
         <html>
